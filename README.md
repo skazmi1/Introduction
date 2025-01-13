@@ -6,7 +6,7 @@ Using
 - **SQL/APIs** for querying data and accessing data warehouses
 - **Python/Excel** for generating reports and ad-hoc analysis
 - **PowerBI** for developing interactive and user friendly dashboards 
-- **PowerAutomate** for automating entire pipelines to make them self sustaining.
+- **PowerAutomate** for automating entire pipelines to make them self sustaining
 
 ## 🛠️ Skills  
 - **Languages**:  
@@ -25,7 +25,7 @@ Using
 Welcome to my portfolio! Here, I showcase the various projects I've worked on, demonstrating my expertise in data analysis, reporting, and visualization.  
 
 ## 👋🏻 Connect with Me  
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/aleekazmi/)  
 
 ---  
 
