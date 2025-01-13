@@ -1,4 +1,4 @@
-#🙋🏻‍♀️ Introducing Myself
+# 🙋🏻‍♀️ Introducing Myself
 
 Hello, I'm **Alee Kazmi**, a Data Analyst with expertise in Data Analysis and Reporting, Query Optimization, Database Design and Data Modelling.
 
