@@ -6,7 +6,7 @@ Using
 - **SQL/APIs** for querying data and accessing data warehouses
 - **Python/Excel** for generating reports and ad-hoc analysis
 - **PowerBI** for developing interactive and user friendly dashboards 
--**PowerAutomate** for automating entire pipelines to make them self sustaining.
+- **PowerAutomate** for automating entire pipelines to make them self sustaining.
 
 ## 🛠️ Skills  
 - **Languages**:  
