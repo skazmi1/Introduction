@@ -23,6 +23,8 @@ Using
 
 ## 📚 Projects  
 Welcome to my portfolio! Here, I showcase the various projects I've worked on, demonstrating my expertise in data analysis, reporting, and visualization.  
+- [Box Puzzle Problem using Python and Recursion](https://github.com/skazmi1/Check24-Data-Scientist)
+- [Improving Upfront Pricing prediction using Machine Learning and Deepdive Data Exploration using Python](https://github.com/skazmi1/Bolt-Task-Data-Analyst/tree/main)
 
 ## 👋🏻 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/aleekazmi/)  
