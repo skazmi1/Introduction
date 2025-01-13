@@ -1,16 +1,15 @@
-Hello, I'm **Alee Kazmi**, a Data Analyst with expertise in:  
-- **Data Analysis and Reporting**  
-- **Query Optimization**  
-- **Database Design**  
-- **Data Modelling**  
+Hello, I'm **Alee Kazmi**, a Data Analyst with expertise in Data Analysis and Reporting, Query Optimization, Database Design and Data Modelling.
+
+Using 
+- **SQL/APIs** for querying data and accessing data warehouses
+- **Python/Excel** for generating reports and ad-hoc analysis
+- **PowerBI** for developing interactive and user friendly dashboards 
+-**PowerAutomate** for automating entire pipelines to make them self sustaining.
 
 ## 🛠️ Skills  
-### Querying and Analysis:  
-- **SQL/APIs**: Querying data and performing analysis  
-- **Python/Excel**: Generating reports and ad-hoc analysis  
-- **PowerBI**: Developing interactive dashboards  
-
-### Data Tools:  
+- **Languages**:  
+  - Python 
+  - SQL 
 - **Databases**:  
   - Google BigQuery  
   - PostgreSQL  
