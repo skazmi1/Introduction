@@ -1,6 +1,3 @@
-# Alee Kazmi  
-**Data Analyst**  
-
 Hello, I'm **Alee Kazmi**, a Data Analyst with expertise in:  
 - **Data Analysis and Reporting**  
 - **Query Optimization**  
@@ -28,7 +25,6 @@ Welcome to my portfolio! Here, I showcase the various projects I've worked on, d
 
 ## 👋🏻 Connect with Me  
 - [LinkedIn](#)  
-- Hire me on Upwork (Link coming soon)  
 
 ---  
 
